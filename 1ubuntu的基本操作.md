@@ -8,6 +8,8 @@
 + xrandr：命令查看分辨率
 + xrandr --size 1300x860： 设置分辨率为1300*860
 + Ctrl+Shift+=：放大终端的字体，Ctrl + -：缩小
++ su root：可以切换到root登录
++ sudo passwd root：给root设置密码
 + 在模板目录下新建一个txt文档，在别的目录下就可以使用鼠标右键快速新建同样的文档了
 + linux区分大小写
 
